@@ -1,7 +1,7 @@
 # Prueba-modulo2
   Código del Proyecto Web Personal – Módulo 2
 
-Este proyecto está desarrollado usando HTML semántico y CSS moderno. Es un sitio web personal donde presento mi información, trabajos previos y un formulario de contacto. A continuación se describe cómo está estructurado y cómo funciona el código.
+Este proyecto está desarrollado usando HTML  y CSS. Es un sitio web personal donde presento mi información, trabajos hechos y un formulario de contacto. A continuación se describe cómo está estructurado y cómo funciona el código.
 
 
 ---
